@@ -12,4 +12,4 @@ jobs:
               with:
                 python-version: '3.11'
             - name: 파이썬 실행 확인
-              run: python-V
+              run: python -V
